@@ -6,7 +6,7 @@ Created on 2016-4-11
 import pymssql
 import sys
 
-class MyDB:
+class MyDB():
     '''对pymssql的简单封装'''
     def __init__(self,host,user,passwd,db):
         '''初始化变量'''
