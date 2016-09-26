@@ -1,2 +1,2 @@
-这是我用来学习的数据挖掘与机器学习写的案例
-其中存在许多不足，欢迎大家指点
+This is what I used to learn the data mining and machine learning to write the case
+There are many deficiencies, please correct me.
